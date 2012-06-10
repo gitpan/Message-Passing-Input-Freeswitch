@@ -23,9 +23,9 @@ no_index:
 requires:
   AnyEvent: 0
   ESL: 0
-  Message::Passing: 0.006
+  Message::Passing: 0.007
   Moose: 0
   Task::Weaken: 0
   Try::Tiny: 0
   namespace::autoclean: 0
-version: 0.004
+version: 0.005
